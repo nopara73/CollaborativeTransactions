@@ -1,0 +1,9 @@
+(specifications->manifest
+  '("python"
+    "jupyter"
+    "python-matplotlib"
+    "python-pandas"
+    "python-graphviz"
+    "graphviz"
+    "python-attrs"
+    "python-mypy"))
